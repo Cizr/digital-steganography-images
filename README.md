@@ -1,5 +1,11 @@
 # digital-steganography-images
 A Python-based tool for concealing confidential information within images. embed and extract data seamlessly, adding an extra layer of privacy to your images. 
+![image](https://github.com/Cizr/digital-steganography-images/assets/100844208/90ec9db6-5b30-40d6-83ae-9025c0af138f)
+
+# What Is Steganography?
+A steganography technique involves hiding sensitive information within an ordinary, non-secret file or message so that it will not be detected. The sensitive information will then be extracted from the ordinary file or message at its destination, thus avoiding detection. Steganography is an additional step that can be used in conjunction with encryption to conceal or protect data.
+
+Steganography is a means of concealing secret information within (or even on top of) an otherwise mundane, non-secret document or other media to avoid detection. It comes from the Greek words steganos, which means “covered” or “hidden,” and graph, which means “to write.” Hence, “hidden writing.”
 
 ## Project Overview
 
