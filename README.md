@@ -51,11 +51,11 @@ Upon execution, the huffman.py file presents two distinct options:
 
 ![image (1)](https://github.com/Cizr/digital-steganography-images/assets/100844208/b3122f10-f471-4d47-b6ad-17a13c085729)
 
-Encoding:
+# Encoding:
 Parameters: Accepts a text file containing the secret message that requires encoding.
 Return: The encoded binary is saved in a .txt file, accompanied by the preservation of the frequency table, essential for decoding purposes.
 
-Decoding:
+# Decoding:
 parameters: encoded image and enc_fre.pkl file which contains the data necessary to decode
 return: saves the decoded binary in a .txt file.
 
@@ -65,11 +65,11 @@ histogram_shifting.py file, an integral component of this project, is dedicated 
 
 ![image (2)](https://github.com/Cizr/digital-steganography-images/assets/100844208/62680178-f83d-496d-9bb4-b396a1c275e0)
 
-Encoding: 
+# Encoding: 
 Parameters: Accepts a text file containing the binary string to be encoded and the cover image.
 Return: Generates an encoded image and saves the enc_data.pkl file, containing necessary data for decoding.
 
-Decoding:
+# Decoding:
 Parameters: Requires an encoded image and the corresponding enc_data.pkl file for decoding.
 Return: Retrieves the decoded binary and saves it into a .txt file.
 
